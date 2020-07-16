@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Word-Guess-React/static/css/main.d3aaa3ee.chunk.css",
+    "main.js": "/Word-Guess-React/static/js/main.b7075683.chunk.js",
+    "main.js.map": "/Word-Guess-React/static/js/main.b7075683.chunk.js.map",
+    "runtime-main.js": "/Word-Guess-React/static/js/runtime-main.0b4c2b1e.js",
+    "runtime-main.js.map": "/Word-Guess-React/static/js/runtime-main.0b4c2b1e.js.map",
+    "static/js/2.ef948c79.chunk.js": "/Word-Guess-React/static/js/2.ef948c79.chunk.js",
+    "static/js/2.ef948c79.chunk.js.map": "/Word-Guess-React/static/js/2.ef948c79.chunk.js.map",
+    "index.html": "/Word-Guess-React/index.html",
+    "precache-manifest.67869beffdd5af6eaa9407eb0b27edbf.js": "/Word-Guess-React/precache-manifest.67869beffdd5af6eaa9407eb0b27edbf.js",
+    "service-worker.js": "/Word-Guess-React/service-worker.js",
+    "static/css/main.d3aaa3ee.chunk.css.map": "/Word-Guess-React/static/css/main.d3aaa3ee.chunk.css.map",
+    "static/js/2.ef948c79.chunk.js.LICENSE.txt": "/Word-Guess-React/static/js/2.ef948c79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4c2b1e.js",
+    "static/js/2.ef948c79.chunk.js",
+    "static/css/main.d3aaa3ee.chunk.css",
+    "static/js/main.b7075683.chunk.js"
+  ]
+}
